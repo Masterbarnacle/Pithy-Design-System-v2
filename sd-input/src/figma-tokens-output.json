@@ -909,7 +909,7 @@
                 "type": "color"
               },
               "default": {
-                "value": "{pty.global.orange.1000}",
+                "value": "{pty.global.orange.400}",
                 "type": "color"
               },
               "hover": {
