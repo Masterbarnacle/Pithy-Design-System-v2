@@ -1,0 +1,825 @@
+{
+  "pty": {
+    "global": {
+      "size": {
+        "100": {
+          "value": "$pty.global.size.scale * 1",
+          "type": "sizing"
+        },
+        "200": {
+          "value": "$pty.global.size.scale * 2",
+          "type": "sizing"
+        },
+        "300": {
+          "value": "$pty.global.size.scale * 3",
+          "type": "sizing"
+        },
+        "400": {
+          "value": "$pty.global.size.scale * 4",
+          "type": "sizing"
+        },
+        "500": {
+          "value": "$pty.global.size.scale * 5",
+          "type": "sizing"
+        },
+        "600": {
+          "value": "$pty.global.size.scale * 6",
+          "type": "sizing"
+        },
+        "700": {
+          "value": "$pty.global.size.scale * 7",
+          "type": "sizing"
+        },
+        "800": {
+          "value": "$pty.global.size.scale * 8",
+          "type": "sizing"
+        },
+        "900": {
+          "value": "$pty.global.size.scale * 9",
+          "type": "sizing"
+        },
+        "1000": {
+          "value": "$pty.global.size.scale * 10",
+          "type": "sizing"
+        },
+        "1100": {
+          "value": "$pty.global.size.scale * 11",
+          "type": "sizing"
+        },
+        "1200": {
+          "value": "$pty.global.size.scale * 12",
+          "type": "sizing"
+        },
+        "1300": {
+          "value": "$pty.global.size.scale * 13",
+          "type": "sizing"
+        },
+        "1400": {
+          "value": "$pty.global.size.scale * 14",
+          "type": "sizing"
+        },
+        "1500": {
+          "value": "$pty.global.size.scale * 15",
+          "type": "sizing"
+        },
+        "1600": {
+          "value": "$pty.global.size.scale * 16",
+          "type": "sizing"
+        },
+        "1700": {
+          "value": "$pty.global.size.scale * 17",
+          "type": "sizing"
+        },
+        "1800": {
+          "value": "$pty.global.size.scale * 18",
+          "type": "sizing"
+        },
+        "1900": {
+          "value": "$pty.global.size.scale * 19",
+          "type": "sizing"
+        },
+        "2000": {
+          "value": "$pty.global.size.scale * 20",
+          "type": "sizing"
+        },
+        "scale": {
+          "value": "8",
+          "type": "sizing"
+        }
+      },
+      "space": {
+        "100": {
+          "value": "$pty.global.space.scale * 1",
+          "type": "spacing"
+        },
+        "200": {
+          "value": "$pty.global.space.scale * 2",
+          "type": "spacing"
+        },
+        "300": {
+          "value": "$pty.global.space.scale * 3",
+          "type": "spacing"
+        },
+        "400": {
+          "value": "$pty.global.space.scale * 4",
+          "type": "spacing"
+        },
+        "500": {
+          "value": "$pty.global.space.scale * 5",
+          "type": "spacing"
+        },
+        "600": {
+          "value": "$pty.global.space.scale * 6",
+          "type": "spacing"
+        },
+        "700": {
+          "value": "$pty.global.space.scale * 7",
+          "type": "spacing"
+        },
+        "800": {
+          "value": "$pty.global.space.scale * 8",
+          "type": "spacing"
+        },
+        "900": {
+          "value": "$pty.global.space.scale * 9",
+          "type": "spacing"
+        },
+        "1000": {
+          "value": "$pty.global.space.scale * 10",
+          "type": "spacing"
+        },
+        "1100": {
+          "value": "$pty.global.space.scale * 11",
+          "type": "spacing"
+        },
+        "1200": {
+          "value": "$pty.global.space.scale * 12",
+          "type": "spacing"
+        },
+        "1300": {
+          "value": "$pty.global.space.scale * 13",
+          "type": "spacing"
+        },
+        "1400": {
+          "value": "$pty.global.space.scale * 14",
+          "type": "spacing"
+        },
+        "1500": {
+          "value": "$pty.global.space.scale * 15",
+          "type": "spacing"
+        },
+        "1600": {
+          "value": "$pty.global.space.scale * 16",
+          "type": "spacing"
+        },
+        "1700": {
+          "value": "$pty.global.space.scale * 17",
+          "type": "spacing"
+        },
+        "1800": {
+          "value": "$pty.global.space.scale * 18",
+          "type": "spacing"
+        },
+        "1900": {
+          "value": "$pty.global.space.scale * 19",
+          "type": "spacing"
+        },
+        "2000": {
+          "value": "$pty.global.space.scale * 20",
+          "type": "spacing"
+        },
+        "scale": {
+          "value": "8",
+          "type": "spacing"
+        }
+      },
+      "radius": {
+        "100": {
+          "value": "$pty.global.radius.scale * 1",
+          "type": "borderRadius"
+        },
+        "200": {
+          "value": "$pty.global.radius.scale * 2",
+          "type": "borderRadius"
+        },
+        "300": {
+          "value": "$pty.global.radius.scale * 3",
+          "type": "borderRadius"
+        },
+        "400": {
+          "value": "$pty.global.radius.scale * 4",
+          "type": "borderRadius"
+        },
+        "500": {
+          "value": "$pty.global.radius.scale * 5",
+          "type": "borderRadius"
+        },
+        "600": {
+          "value": "$pty.global.radius.scale * 6",
+          "type": "borderRadius"
+        },
+        "700": {
+          "value": "$pty.global.radius.scale * 7",
+          "type": "borderRadius"
+        },
+        "800": {
+          "value": "$pty.global.radius.scale * 8",
+          "type": "borderRadius"
+        },
+        "900": {
+          "value": "$pty.global.radius.scale * 9",
+          "type": "borderRadius"
+        },
+        "1000": {
+          "value": "$pty.global.radius.scale * 10",
+          "type": "borderRadius"
+        },
+        "scale": {
+          "value": "4",
+          "type": "borderRadius"
+        }
+      },
+      "grey": {
+        "100": {
+          "value": "#fdfdfd",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+        },
+        "200": {
+          "value": "#e1e2e2",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 1.3:1 against background #ffffff"
+        },
+        "300": {
+          "value": "#c6c6c6",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 1.71:1 against background #ffffff"
+        },
+        "400": {
+          "value": "#aaabab",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 2.3:1 against background #ffffff"
+        },
+        "500": {
+          "value": "#919191",
+          "type": "color",
+          "description": "Color can be used for UI elements or large text. Contrast is 3.15:1 against background #ffffff"
+        },
+        "600": {
+          "value": "#777878",
+          "type": "color",
+          "description": "Color can be used for UI elements or large text. Contrast is 4.42:1 against background #ffffff"
+        },
+        "700": {
+          "value": "#5f5f5f",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 6.39:1 against background #ffffff"
+        },
+        "800": {
+          "value": "#484848",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 9.15:1 against background #ffffff"
+        },
+        "900": {
+          "value": "#323232",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 12.82:1 against background #ffffff"
+        },
+        "1000": {
+          "value": "#1d1d1d",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 16.86:1 against background #ffffff"
+        },
+        "1100": {
+          "value": "#040404",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 20.5:1 against background #ffffff"
+        }
+      },
+      "orange": {
+        "100": {
+          "value": "#fffcfc",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+        },
+        "200": {
+          "value": "#fcdacf",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 1.3:1 against background #ffffff"
+        },
+        "300": {
+          "value": "#f8b6a0",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 1.71:1 against background #ffffff"
+        },
+        "400": {
+          "value": "#f5906e",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 2.3:1 against background #ffffff"
+        },
+        "500": {
+          "value": "#f16536",
+          "type": "color",
+          "description": "Color can be used for UI elements or large text. Contrast is 3.15:1 against background #ffffff"
+        },
+        "600": {
+          "value": "#cf4d22",
+          "type": "color",
+          "description": "Color can be used for UI elements or large text. Contrast is 4.42:1 against background #ffffff"
+        },
+        "700": {
+          "value": "#a53d1b",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 6.39:1 against background #ffffff"
+        },
+        "800": {
+          "value": "#7e2f14",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 9.15:1 against background #ffffff"
+        },
+        "900": {
+          "value": "#58200e",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 12.82:1 against background #ffffff"
+        },
+        "1000": {
+          "value": "#341309",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 16.86:1 against background #ffffff"
+        },
+        "1100": {
+          "value": "#080301",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 20.5:1 against background #ffffff"
+        }
+      },
+      "purple": {
+        "100": {
+          "value": "#fdfdff",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+        },
+        "200": {
+          "value": "#e4dcff",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 1.3:1 against background #ffffff"
+        },
+        "300": {
+          "value": "#cdbcff",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 1.71:1 against background #ffffff"
+        },
+        "400": {
+          "value": "#b59bfe",
+          "type": "color",
+          "description": "Do not use for UI elements or text. Contrast is 2.3:1 against background #ffffff"
+        },
+        "500": {
+          "value": "#9c7afe",
+          "type": "color",
+          "description": "Color can be used for UI elements or large text. Contrast is 3.15:1 against background #ffffff"
+        },
+        "600": {
+          "value": "#8165d5",
+          "type": "color",
+          "description": "Color can be used for UI elements or large text. Contrast is 4.42:1 against background #ffffff"
+        },
+        "700": {
+          "value": "#6650a9",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 6.39:1 against background #ffffff"
+        },
+        "800": {
+          "value": "#4e3d80",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 9.15:1 against background #ffffff"
+        },
+        "900": {
+          "value": "#362a5a",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 12.82:1 against background #ffffff"
+        },
+        "1000": {
+          "value": "#1f1834",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 16.86:1 against background #ffffff"
+        },
+        "1100": {
+          "value": "#040307",
+          "type": "color",
+          "description": "Color can be used for small text. Contrast is 20.5:1 against background #ffffff"
+        }
+      },
+      "family": {
+        "inter": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "manrope": {
+          "value": "Manrope",
+          "type": "fontFamilies"
+        },
+        "roboto": {
+          "value": "Roboto",
+          "type": "fontFamilies"
+        },
+        "sourceSans": {
+          "value": "Source Sans Pro",
+          "type": "fontFamilies"
+        }
+      },
+      "weight": {
+        "200": {
+          "value": "Thin",
+          "type": "fontWeights"
+        },
+        "300": {
+          "value": "Extra Light",
+          "type": "fontWeights"
+        },
+        "400": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "500": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "600": {
+          "value": "Medium",
+          "type": "fontWeights"
+        },
+        "700": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "800": {
+          "value": "Extra Bold",
+          "type": "fontWeights"
+        },
+        "900": {
+          "value": "Black",
+          "type": "fontWeights"
+        }
+      },
+      "height": {
+        "100": {
+          "value": "100%",
+          "type": "lineHeights"
+        },
+        "200": {
+          "value": "110%",
+          "type": "lineHeights"
+        },
+        "300": {
+          "value": "120%",
+          "type": "lineHeights"
+        },
+        "400": {
+          "value": "130%",
+          "type": "lineHeights"
+        },
+        "500": {
+          "value": "140%",
+          "type": "lineHeights"
+        },
+        "600": {
+          "value": "150%",
+          "type": "lineHeights"
+        },
+        "700": {
+          "value": "160%",
+          "type": "lineHeights"
+        },
+        "800": {
+          "value": "170%",
+          "type": "lineHeights"
+        },
+        "900": {
+          "value": "180%",
+          "type": "lineHeights"
+        },
+        "1000": {
+          "value": "190%",
+          "type": "lineHeights"
+        },
+        "1100": {
+          "value": "200%",
+          "type": "lineHeights"
+        }
+      },
+      "width": {
+        "100": {
+          "value": "1",
+          "type": "borderWidth"
+        },
+        "200": {
+          "value": "2",
+          "type": "borderWidth"
+        },
+        "300": {
+          "value": "3",
+          "type": "borderWidth"
+        },
+        "400": {
+          "value": "4",
+          "type": "borderWidth"
+        },
+        "500": {
+          "value": "5",
+          "type": "borderWidth"
+        }
+      },
+      "opacity": {
+        "100": {
+          "value": "0.05",
+          "type": "opacity"
+        },
+        "200": {
+          "value": "0.1",
+          "type": "opacity"
+        },
+        "300": {
+          "value": "0.15",
+          "type": "opacity"
+        },
+        "400": {
+          "value": "0.2",
+          "type": "opacity"
+        },
+        "500": {
+          "value": "0.25",
+          "type": "opacity"
+        },
+        "600": {
+          "value": "0.3",
+          "type": "opacity"
+        },
+        "700": {
+          "value": "0.35",
+          "type": "opacity"
+        },
+        "800": {
+          "value": "0.4",
+          "type": "opacity"
+        },
+        "900": {
+          "value": "0.45",
+          "type": "opacity"
+        },
+        "1000": {
+          "value": "0.5",
+          "type": "opacity"
+        },
+        "1100": {
+          "value": "0.55",
+          "type": "opacity"
+        },
+        "1200": {
+          "value": "0.6",
+          "type": "opacity"
+        },
+        "1300": {
+          "value": "0.65",
+          "type": "opacity"
+        },
+        "1400": {
+          "value": "0.7",
+          "type": "opacity"
+        },
+        "1500": {
+          "value": "0.75",
+          "type": "opacity"
+        },
+        "1600": {
+          "value": "0.8",
+          "type": "opacity"
+        },
+        "1700": {
+          "value": "0.85",
+          "type": "opacity"
+        },
+        "1800": {
+          "value": "0.9",
+          "type": "opacity"
+        },
+        "1900": {
+          "value": "0.95",
+          "type": "opacity"
+        },
+        "2000": {
+          "value": "1",
+          "type": "opacity"
+        }
+      },
+      "fontSize": {
+        "25": {
+          "value": "$pty.global.fontSize.base * 0.25",
+          "type": "fontSizes"
+        },
+        "50": {
+          "value": "$pty.global.fontSize.base * 0.5",
+          "type": "fontSizes"
+        },
+        "75": {
+          "value": "$pty.global.fontSize.base * 0.75",
+          "type": "fontSizes"
+        },
+        "100": {
+          "value": "$pty.global.fontSize.base * 1",
+          "type": "fontSizes"
+        },
+        "125": {
+          "value": "$pty.global.fontSize.base * 1.25",
+          "type": "fontSizes"
+        },
+        "150": {
+          "value": "$pty.global.fontSize.base * 1.5",
+          "type": "fontSizes"
+        },
+        "175": {
+          "value": "$pty.global.fontSize.base * 1.75",
+          "type": "fontSizes"
+        },
+        "200": {
+          "value": "$pty.global.fontSize.base * 2",
+          "type": "fontSizes"
+        },
+        "225": {
+          "value": "$pty.global.fontSize.base * 2.25",
+          "type": "fontSizes"
+        },
+        "250": {
+          "value": "$pty.global.fontSize.base * 2.5",
+          "type": "fontSizes"
+        },
+        "275": {
+          "value": "$pty.global.fontSize.base * 2.75",
+          "type": "fontSizes"
+        },
+        "300": {
+          "value": "$pty.global.fontSize.base * 3",
+          "type": "fontSizes"
+        },
+        "325": {
+          "value": "$pty.global.fontSize.base * 3.25",
+          "type": "fontSizes"
+        },
+        "350": {
+          "value": "$pty.global.fontSize.base * 3.5",
+          "type": "fontSizes"
+        },
+        "375": {
+          "value": "$pty.global.fontSize.base * 3.75",
+          "type": "fontSizes"
+        },
+        "400": {
+          "value": "$pty.global.fontSize.base * 4",
+          "type": "fontSizes"
+        },
+        "425": {
+          "value": "$pty.global.fontSize.base * 4.25",
+          "type": "fontSizes"
+        },
+        "450": {
+          "value": "$pty.global.fontSize.base * 4.5",
+          "type": "fontSizes"
+        },
+        "475": {
+          "value": "$pty.global.fontSize.base * 4.75",
+          "type": "fontSizes"
+        },
+        "500": {
+          "value": "$pty.global.fontSize.base * 5",
+          "type": "fontSizes"
+        },
+        "525": {
+          "value": "$pty.global.fontSize.base * 5.25",
+          "type": "fontSizes"
+        },
+        "550": {
+          "value": "$pty.global.fontSize.base * 5.5",
+          "type": "fontSizes"
+        },
+        "575": {
+          "value": "$pty.global.fontSize.base * 5.75",
+          "type": "fontSizes"
+        },
+        "600": {
+          "value": "$pty.global.fontSize.base * 6",
+          "type": "fontSizes"
+        },
+        "625": {
+          "value": "$pty.global.fontSize.base * 6.25",
+          "type": "fontSizes"
+        },
+        "650": {
+          "value": "$pty.global.fontSize.base * 6.5",
+          "type": "fontSizes"
+        },
+        "675": {
+          "value": "$pty.global.fontSize.base * 6.75",
+          "type": "fontSizes"
+        },
+        "700": {
+          "value": "$pty.global.fontSize.base * 7",
+          "type": "fontSizes"
+        },
+        "725": {
+          "value": "$pty.global.fontSize.base * 7.25",
+          "type": "fontSizes"
+        },
+        "750": {
+          "value": "$pty.global.fontSize.base * 7.5",
+          "type": "fontSizes"
+        },
+        "775": {
+          "value": "$pty.global.fontSize.base * 7.75",
+          "type": "fontSizes"
+        },
+        "800": {
+          "value": "$pty.global.fontSize.base * 8",
+          "type": "fontSizes"
+        },
+        "825": {
+          "value": "$pty.global.fontSize.base * 8.25",
+          "type": "fontSizes"
+        },
+        "850": {
+          "value": "$pty.global.fontSize.base * 8.5",
+          "type": "fontSizes"
+        },
+        "875": {
+          "value": "$pty.global.fontSize.base * 8.75",
+          "type": "fontSizes"
+        },
+        "900": {
+          "value": "$pty.global.fontSize.base * 9",
+          "type": "fontSizes"
+        },
+        "925": {
+          "value": "$pty.global.fontSize.base * 9.25",
+          "type": "fontSizes"
+        },
+        "950": {
+          "value": "$pty.global.fontSize.base * 9.5",
+          "type": "fontSizes"
+        },
+        "975": {
+          "value": "$pty.global.fontSize.base * 9.75",
+          "type": "fontSizes"
+        },
+        "1000": {
+          "value": "$pty.global.fontSize.base * 10",
+          "type": "fontSizes"
+        },
+        "base": {
+          "value": "16",
+          "type": "fontSizes"
+        }
+      },
+      "decoration": {
+        "underline": {
+          "value": "underline",
+          "type": "textDecoration"
+        },
+        "linethrough": {
+          "value": "line-through",
+          "type": "textDecoration"
+        }
+      },
+      "case": {
+        "uppercase": {
+          "value": "uppercase",
+          "type": "textCase"
+        },
+        "lowercase": {
+          "value": "lowercase",
+          "type": "textCase"
+        }
+      },
+      "letterSpace": {
+        "100": {
+          "value": "1%",
+          "type": "letterSpacing"
+        },
+        "200": {
+          "value": "2%",
+          "type": "letterSpacing"
+        },
+        "300": {
+          "value": "3%",
+          "type": "letterSpacing"
+        },
+        "400": {
+          "value": "4%",
+          "type": "letterSpacing"
+        },
+        "500": {
+          "value": "5%",
+          "type": "letterSpacing"
+        },
+        "-100": {
+          "value": "-1%",
+          "type": "letterSpacing"
+        },
+        "-200": {
+          "value": "-2%",
+          "type": "letterSpacing"
+        },
+        "-300": {
+          "value": "-3%",
+          "type": "letterSpacing"
+        },
+        "-400": {
+          "value": "-4%",
+          "type": "letterSpacing"
+        },
+        "-500": {
+          "value": "-5%",
+          "type": "letterSpacing"
+        }
+      }
+    }
+  }
+}
