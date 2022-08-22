@@ -16,7 +16,7 @@
         },
         "footer": {
           "bg": {
-            "value": "{pty.semantic.color.surface.background.primary}",
+            "value": "{pty.semantic.color.surfaces.background}",
             "type": "color"
           },
           "icon": {
@@ -68,7 +68,7 @@
         },
         "navigation": {
           "bg": {
-            "value": "{pty.semantic.color.surface.background.primary}",
+            "value": "{pty.semantic.color.surfaces.background}",
             "type": "color"
           },
           "icon": {
@@ -124,7 +124,7 @@
         },
         "app": {
           "background": {
-            "value": "{pty.semantic.color.surface.background.primary}",
+            "value": "{pty.semantic.color.surfaces.background}",
             "type": "color"
           }
         }
