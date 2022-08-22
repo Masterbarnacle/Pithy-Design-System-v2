@@ -779,45 +779,49 @@
         }
       },
       "letterSpace": {
-        "100": {
-          "value": "1%",
-          "type": "letterSpacing"
+        "open": {
+          "100": {
+            "value": "1%",
+            "type": "letterSpacing"
+          },
+          "200": {
+            "value": "2%",
+            "type": "letterSpacing"
+          },
+          "300": {
+            "value": "3%",
+            "type": "letterSpacing"
+          },
+          "400": {
+            "value": "4%",
+            "type": "letterSpacing"
+          },
+          "500": {
+            "value": "5%",
+            "type": "letterSpacing"
+          }
         },
-        "200": {
-          "value": "2%",
-          "type": "letterSpacing"
-        },
-        "300": {
-          "value": "3%",
-          "type": "letterSpacing"
-        },
-        "400": {
-          "value": "4%",
-          "type": "letterSpacing"
-        },
-        "500": {
-          "value": "5%",
-          "type": "letterSpacing"
-        },
-        "-100": {
-          "value": "-1%",
-          "type": "letterSpacing"
-        },
-        "-200": {
-          "value": "-2%",
-          "type": "letterSpacing"
-        },
-        "-300": {
-          "value": "-3%",
-          "type": "letterSpacing"
-        },
-        "-400": {
-          "value": "-4%",
-          "type": "letterSpacing"
-        },
-        "-500": {
-          "value": "-5%",
-          "type": "letterSpacing"
+        "tight": {
+          "100": {
+            "value": "-1%",
+            "type": "letterSpacing"
+          },
+          "200": {
+            "value": "-2%",
+            "type": "letterSpacing"
+          },
+          "300": {
+            "value": "-3%",
+            "type": "letterSpacing"
+          },
+          "400": {
+            "value": "-4%",
+            "type": "letterSpacing"
+          },
+          "500": {
+            "value": "-5%",
+            "type": "letterSpacing"
+          }
         }
       }
     }

@@ -201,7 +201,7 @@
               "fontWeight": "{pty.global.weight.700}",
               "lineHeight": "{pty.global.height.100}",
               "fontSize": "{pty.global.fontSize.300}",
-              "letterSpacing": "{pty.global.letterSpace.-400}"
+              "letterSpacing": "{pty.global.letterSpace.tight.400}"
             },
             "type": "typography"
           }
