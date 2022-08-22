@@ -1,0 +1,16 @@
+[
+  {
+    "id": "678580cc220909413655583e392d041dbbcb6f42",
+    "name": "dark",
+    "selectedTokenSets": {
+      "component": "enabled",
+      "001_core/global": "enabled",
+      "004_component/tag": "enabled",
+      "004_component/detailedList": "enabled",
+      "004_component/footer": "disabled",
+      "003_semantic": "enabled",
+      "002_theme/dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

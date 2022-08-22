@@ -1,0 +1,65 @@
+{
+  "pty": {
+    "component": {
+      "comp": {
+        "detailedListItem": {
+          "value": {
+            "paddingTop": "{pty.semantic.space.small}",
+            "paddingBottom": "{pty.semantic.space.medium}",
+            "spacing": "{pty.semantic.space.small}",
+            "border": "{pty.semantic.color.border.accent}",
+            "borderWidthTop": "0",
+            "borderWidthLeft": "0",
+            "borderWidthRight": "0",
+            "borderWidthBottom": "1"
+          },
+          "type": "composition"
+        }
+      },
+      "detailedListItem": {
+        "color": {
+          "text": {
+            "title": {
+              "value": "{pty.semantic.color.text.default.primary}",
+              "type": "color"
+            },
+            "item": {
+              "value": "{pty.semantic.color.text.default.primary}",
+              "type": "color"
+            },
+            "description": {
+              "value": "{pty.semantic.color.text.default.primary}",
+              "type": "color"
+            }
+          }
+        },
+        "type": {
+          "item": {
+            "value": "{pty.semantic.type.headline.medium}",
+            "type": "typography"
+          },
+          "title": {
+            "value": "{pty.semantic.type.title.large}",
+            "type": "typography"
+          },
+          "description": {
+            "value": "{pty.semantic.type.body.medium}",
+            "type": "typography"
+          }
+        }
+      },
+      "detailedListRow": {
+        "horizontalSpacing": {
+          "value": "{pty.semantic.space.medium}",
+          "type": "spacing"
+        }
+      },
+      "detailedListGroup": {
+        "verticalSpacing": {
+          "value": "{pty.semantic.space.small}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

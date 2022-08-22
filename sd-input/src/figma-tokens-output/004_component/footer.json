@@ -1,0 +1,37 @@
+{
+  "pty": {
+    "component": {
+      "comp": {
+        "footer": {
+          "value": {
+            "paddingTop": "{pty.semantic.space.small}",
+            "paddingBottom": "{pty.semantic.space.large}",
+            "horizontalPadding": "{pty.semantic.space.medium}",
+            "fill": "{pty.semantic.color.surface.background}"
+          },
+          "type": "composition"
+        }
+      }
+    }
+  },
+  "pyt": {
+    "component": {
+      "footer": {
+        "icon": {
+          "active": {
+            "value": "{pty.semantic.color.icon.primary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{pty.semantic.color.icon.disabled}",
+            "type": "color"
+          },
+          "size": {
+            "value": "{pty.semantic.size.small}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}

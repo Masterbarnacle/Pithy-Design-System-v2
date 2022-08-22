@@ -1,0 +1,289 @@
+{
+  "pty": {
+    "semantic": {
+      "size": {
+        "xsmall": {
+          "value": "{pty.global.size.200}",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "{pty.global.size.300}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{pty.global.size.600}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{pty.global.size.1000}",
+          "type": "sizing"
+        },
+        "xlarge": {
+          "value": "{pty.global.size.1200}",
+          "type": "sizing"
+        },
+        "xxlarge": {
+          "value": "{pty.global.size.2000}",
+          "type": "sizing"
+        }
+      },
+      "space": {
+        "xsmall": {
+          "value": "{pty.global.space.100}",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "{pty.global.space.200}",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "{pty.global.space.300}",
+          "type": "spacing"
+        },
+        "large": {
+          "value": "{pty.global.space.400}",
+          "type": "spacing"
+        },
+        "xlarge": {
+          "value": "{pty.global.space.600}",
+          "type": "spacing"
+        },
+        "xxlarge": {
+          "value": "{pty.global.space.800}",
+          "type": "spacing"
+        },
+        "xxxlarge": {
+          "value": "{pty.global.space.1000}",
+          "type": "spacing"
+        }
+      },
+      "color": {
+        "accent": {
+          "purple": {
+            "background": {
+              "value": "{pty.global.purple.400}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{pty.global.purple.300}",
+              "type": "color"
+            },
+            "clicked": {
+              "value": "{pty.global.purple.200}",
+              "type": "color"
+            }
+          },
+          "orange": {
+            "background": {
+              "value": "{pty.global.orange.400}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{pty.global.orange.300}",
+              "type": "color"
+            },
+            "clicked": {
+              "value": "{pty.global.orange.200}",
+              "type": "color"
+            }
+          },
+          "theme": {
+            "background": {
+              "value": "{pty.global.grey.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{pty.global.grey.200}",
+              "type": "color"
+            },
+            "clicked": {
+              "value": "{pty.global.grey.300}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "background": {
+              "value": "{pty.semantic.color.accent.theme.background}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{pty.semantic.color.accent.theme.hover}",
+              "type": "color"
+            },
+            "clicked": {
+              "value": "{pty.semantic.color.accent.theme.clicked}",
+              "type": "color"
+            }
+          }
+        },
+        "surface": {
+          "black": {
+            "value": "{pty.global.grey.1100}",
+            "type": "color"
+          },
+          "accent": {
+            "value": "{pty.global.grey.1100}",
+            "type": "color"
+          },
+          "background": {
+            "value": "{pty.global.grey.1000}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{pty.global.grey.900}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "primary": {
+            "value": "{pty.global.grey.100}",
+            "type": "color"
+          },
+          "accent": {
+            "type": "color",
+            "value": "{pty.semantic.color.accent.theme.background}"
+          },
+          "disabled": {
+            "value": "{pty.global.grey.800}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "primary": {
+              "value": "{pty.global.grey.100}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{pty.global.grey.500}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{pty.global.grey.300}",
+              "type": "color"
+            }
+          },
+          "onAccent": {
+            "primary": {
+              "value": "{pty.global.grey.1000}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{pty.global.grey.700}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{pty.global.grey.300}",
+              "type": "color"
+            }
+          }
+        },
+        "border": {
+          "accent": {
+            "value": "{pty.global.grey.800}",
+            "type": "color"
+          }
+        }
+      },
+      "family": {
+        "primary": {
+          "value": "{pty.global.family.manrope}",
+          "type": "fontFamilies"
+        }
+      },
+      "radius": {
+        "default": {
+          "value": "{pty.global.radius.100}",
+          "type": "borderRadius"
+        }
+      },
+      "type": {
+        "display": {
+          "large": {
+            "value": {
+              "fontFamily": "{pty.semantic.family.primary}",
+              "fontWeight": "{pty.global.weight.700}",
+              "lineHeight": "{pty.global.height.100}",
+              "fontSize": "{pty.global.fontSize.300}",
+              "letterSpacing": "{pty.global.letterSpace.tight.400}"
+            },
+            "type": "typography"
+          }
+        },
+        "body": {
+          "medium": {
+            "value": {
+              "fontFamily": "{pty.semantic.family.primary}",
+              "fontWeight": "{pty.global.weight.500}",
+              "lineHeight": "{pty.global.height.400}",
+              "fontSize": "{pty.global.fontSize.100}"
+            },
+            "type": "typography"
+          }
+        },
+        "headline": {
+          "medium": {
+            "value": {
+              "fontFamily": "{pty.semantic.family.primary}",
+              "fontWeight": "{pty.global.weight.500}",
+              "lineHeight": "{pty.global.height.400}",
+              "fontSize": "{pty.global.fontSize.100}",
+              "textCase": "{pty.global.case.uppercase}"
+            },
+            "type": "typography"
+          },
+          "small": {
+            "value": {
+              "fontFamily": "{pty.semantic.family.primary}",
+              "fontWeight": "{pty.global.weight.500}",
+              "lineHeight": "{pty.global.height.100}",
+              "fontSize": "{pty.global.fontSize.75}"
+            },
+            "type": "typography"
+          }
+        },
+        "title": {
+          "large": {
+            "value": {
+              "fontFamily": "{pty.semantic.family.primary}",
+              "fontWeight": "{pty.global.weight.700}",
+              "lineHeight": "{pty.global.height.400}",
+              "fontSize": "{pty.global.fontSize.150}"
+            },
+            "type": "typography"
+          },
+          "small": {
+            "value": {
+              "fontFamily": "{pty.semantic.family.primary}",
+              "fontWeight": "{pty.global.weight.700}",
+              "lineHeight": "{pty.global.height.400}",
+              "fontSize": "{pty.global.fontSize.75}"
+            },
+            "type": "typography"
+          },
+          "medium": {
+            "value": {
+              "fontFamily": "{pty.semantic.family.primary}",
+              "fontWeight": "{pty.global.weight.500}",
+              "lineHeight": "{pty.global.height.400}",
+              "fontSize": "{pty.global.fontSize.100}"
+            },
+            "type": "typography"
+          }
+        },
+        "label": {
+          "small": {
+            "value": {
+              "fontFamily": "{pty.semantic.family.primary}",
+              "fontWeight": "{pty.global.weight.500}",
+              "lineHeight": "{pty.global.height.100}",
+              "fontSize": "{pty.global.fontSize.75}",
+              "textCase": "{pty.global.case.uppercase}"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    }
+  }
+}

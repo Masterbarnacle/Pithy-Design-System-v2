@@ -1,0 +1,31 @@
+{
+  "pty": {
+    "component": {
+      "comp": {
+        "tag": {
+          "value": {
+            "borderRadius": "{pty.semantic.radius.default}",
+            "paddingTop": "{pty.semantic.space.xsmall}",
+            "paddingRight": "{pty.semantic.space.xsmall}",
+            "paddingBottom": "{pty.semantic.space.xsmall}",
+            "paddingLeft": "{pty.semantic.space.xsmall}",
+            "fill": "{pty.semantic.color.accent.active.background}"
+          },
+          "type": "composition"
+        }
+      },
+      "tag": {
+        "type": {
+          "value": "{pty.semantic.type.label.small}",
+          "type": "typography"
+        },
+        "color": {
+          "text": {
+            "value": "{pty.semantic.color.text.onAccent.primary}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
