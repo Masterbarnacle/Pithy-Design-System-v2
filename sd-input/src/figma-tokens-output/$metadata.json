@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "001_core/global",
-    "002_semantic/semantic",
+    "002_semantic/light",
     "component",
     "003_component/tag",
     "003_component/detailedList",

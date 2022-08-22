@@ -23,8 +23,12 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{pty.semantic.color.icon.primary}",
+            "value": "{pty.semantic.color.icon.disabled}",
             "type": "color"
+          },
+          "size": {
+            "value": "{pty.semantic.size.small}",
+            "type": "sizing"
           }
         }
       }
