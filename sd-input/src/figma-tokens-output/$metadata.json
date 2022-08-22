@@ -3,6 +3,7 @@
     "global",
     "semantic",
     "component",
-    "tag"
+    "003_component/tag",
+    "003_component/detailedListItem"
   ]
 }
