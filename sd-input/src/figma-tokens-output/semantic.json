@@ -116,7 +116,7 @@
             }
           }
         },
-        "surfaces": {
+        "surface": {
           "background": {
             "value": "{pty.global.grey.1000}",
             "type": "color"
