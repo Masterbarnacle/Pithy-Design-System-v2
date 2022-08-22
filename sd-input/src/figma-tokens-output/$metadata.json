@@ -1,9 +1,10 @@
 {
   "tokenSetOrder": [
-    "global",
-    "semantic",
+    "001_core/global",
+    "002_semantic/semantic",
     "component",
     "003_component/tag",
-    "003_component/detailedList"
+    "003_component/detailedList",
+    "003_component/footer"
   ]
 }

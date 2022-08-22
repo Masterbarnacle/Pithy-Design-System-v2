@@ -3,11 +3,12 @@
     "id": "678580cc220909413655583e392d041dbbcb6f42",
     "name": "dark",
     "selectedTokenSets": {
-      "global": "enabled",
-      "semantic": "enabled",
       "component": "enabled",
       "003_component/tag": "enabled",
-      "003_component/detailedList": "enabled"
+      "003_component/detailedList": "enabled",
+      "003_component/footer": "disabled",
+      "002_semantic/semantic": "enabled",
+      "001_core/global": "enabled"
     },
     "$figmaStyleReferences": {}
   }

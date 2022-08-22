@@ -117,6 +117,10 @@
           }
         },
         "surface": {
+          "black": {
+            "value": "{pty.global.grey.1100}",
+            "type": "color"
+          },
           "background": {
             "value": "{pty.global.grey.1000}",
             "type": "color"
@@ -127,13 +131,13 @@
           }
         },
         "icon": {
-          "accent": {
-            "type": "color",
-            "value": "{pty.semantic.color.accent.theme.background}"
-          },
           "primary": {
             "value": "{pty.global.grey.100}",
             "type": "color"
+          },
+          "accent": {
+            "type": "color",
+            "value": "{pty.semantic.color.accent.theme.background}"
           },
           "disabled": {
             "value": "{pty.global.grey.800}",
