@@ -7,7 +7,7 @@
             "paddingTop": "{pty.semantic.space.small}",
             "paddingBottom": "{pty.semantic.space.medium}",
             "spacing": "{pty.semantic.space.small}",
-            "border": "{pty.semantic.color.border.default}",
+            "border": "{pty.semantic.color.border.accent}",
             "borderWidthTop": "0",
             "borderWidthLeft": "0",
             "borderWidthRight": "0",

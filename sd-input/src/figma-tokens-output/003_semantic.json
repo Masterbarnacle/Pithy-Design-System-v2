@@ -121,6 +121,10 @@
             "value": "{pty.global.grey.1100}",
             "type": "color"
           },
+          "accent": {
+            "value": "{pty.global.grey.1100}",
+            "type": "color"
+          },
           "background": {
             "value": "{pty.global.grey.1000}",
             "type": "color"
@@ -175,7 +179,7 @@
           }
         },
         "border": {
-          "default": {
+          "accent": {
             "value": "{pty.global.grey.800}",
             "type": "color"
           }

@@ -1,10 +1,11 @@
 {
   "tokenSetOrder": [
     "001_core/global",
-    "002_semantic/light",
+    "002_theme/dark",
+    "003_semantic",
     "component",
-    "003_component/tag",
-    "003_component/detailedList",
-    "003_component/footer"
+    "004_component/tag",
+    "004_component/detailedList",
+    "004_component/footer"
   ]
 }

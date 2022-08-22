@@ -48,7 +48,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{pty.semantic.color.border.default}",
+            "value": "{pty.semantic.color.border.accent}",
             "type": "color"
           }
         },
@@ -118,7 +118,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{pty.semantic.color.border.default}",
+            "value": "{pty.semantic.color.border.accent}",
             "type": "color"
           }
         },

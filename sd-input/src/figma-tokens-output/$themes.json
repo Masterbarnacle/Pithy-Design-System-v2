@@ -4,11 +4,12 @@
     "name": "dark",
     "selectedTokenSets": {
       "component": "enabled",
-      "003_component/tag": "enabled",
-      "003_component/detailedList": "enabled",
-      "003_component/footer": "disabled",
       "001_core/global": "enabled",
-      "002_semantic/light": "enabled"
+      "004_component/tag": "enabled",
+      "004_component/detailedList": "enabled",
+      "004_component/footer": "disabled",
+      "003_semantic": "enabled",
+      "002_theme/dark": "disabled"
     },
     "$figmaStyleReferences": {}
   }
