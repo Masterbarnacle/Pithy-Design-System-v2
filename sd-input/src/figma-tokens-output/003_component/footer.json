@@ -6,7 +6,7 @@
           "value": {
             "paddingTop": "{pty.semantic.space.small}",
             "paddingBottom": "{pty.semantic.space.large}",
-            "horizontalPadding": "{pty.component.space.wrapper.paddingLeftRight}",
+            "horizontalPadding": "{pty.semantic.space.medium}",
             "fill": "{pty.semantic.color.surface.background}"
           },
           "type": "composition"
