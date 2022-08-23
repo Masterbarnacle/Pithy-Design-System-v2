@@ -11,13 +11,7 @@
             "value": "{pty.semantic.size.medium}",
             "type": "sizing"
           }
-        }
-      }
-    }
-  },
-  "pyt": {
-    "component": {
-      "icon": {
+        },
         "colour": {
           "primary": {
             "value": "{pty.semantic.color.icon.primary}",

@@ -10,13 +10,7 @@
             "fill": "{pty.semantic.color.surface.background}"
           },
           "type": "composition"
-        }
-      }
-    }
-  },
-  "pyt": {
-    "component": {
-      "footer": {
+        },
         "color": {
           "icon": {
             "active": {
