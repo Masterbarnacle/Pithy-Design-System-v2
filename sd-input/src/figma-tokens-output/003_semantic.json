@@ -58,85 +58,23 @@
         }
       },
       "color": {
-        "accent": {
-          "purple": {
-            "background": {
-              "value": "{pty.global.purple.400}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{pty.global.purple.300}",
-              "type": "color"
-            },
-            "clicked": {
-              "value": "{pty.global.purple.200}",
-              "type": "color"
-            }
-          },
-          "orange": {
-            "background": {
-              "value": "{pty.global.orange.400}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{pty.global.orange.300}",
-              "type": "color"
-            },
-            "clicked": {
-              "value": "{pty.global.orange.200}",
-              "type": "color"
-            }
-          },
-          "theme": {
-            "background": {
-              "value": "{pty.global.grey.100}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{pty.global.grey.200}",
-              "type": "color"
-            },
-            "clicked": {
-              "value": "{pty.global.grey.300}",
-              "type": "color"
-            }
-          },
-          "active": {
-            "background": {
-              "value": "{pty.semantic.color.accent.theme.background}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{pty.semantic.color.accent.theme.hover}",
-              "type": "color"
-            },
-            "clicked": {
-              "value": "{pty.semantic.color.accent.theme.clicked}",
-              "type": "color"
-            }
-          }
-        },
         "surface": {
-          "black": {
-            "value": "{pty.global.grey.1100}",
-            "type": "color"
-          },
           "accent": {
-            "value": "{pty.global.grey.1100}",
+            "value": "{pty.theme.color.activeAccent.background}",
             "type": "color"
           },
           "background": {
-            "value": "{pty.global.grey.1000}",
+            "value": "{pty.theme.color.theme.100}",
             "type": "color"
           },
           "foreground": {
-            "value": "{pty.global.grey.900}",
+            "value": "{pty.theme.color.theme.90}",
             "type": "color"
           }
         },
         "icon": {
           "primary": {
-            "value": "{pty.global.grey.100}",
+            "value": "{pty.theme.color.theme.0}",
             "type": "color"
           },
           "accent": {
