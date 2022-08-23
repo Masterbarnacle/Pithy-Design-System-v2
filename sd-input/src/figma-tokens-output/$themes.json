@@ -10,7 +10,8 @@
       "005_component/tag": "enabled",
       "005_component/detailedList": "enabled",
       "005_component/footer": "enabled",
-      "004_semantic/semantic": "enabled"
+      "004_semantic/semantic": "enabled",
+      "005_component/icon": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -25,7 +26,8 @@
       "005_component/tag": "enabled",
       "005_component/detailedList": "enabled",
       "005_component/footer": "enabled",
-      "004_semantic/semantic": "enabled"
+      "004_semantic/semantic": "enabled",
+      "005_component/icon": "disabled"
     },
     "$figmaStyleReferences": {
       "pyt.component.footer.color.icon.active": "S:39df49495f50492b701883c17dc914b4662859c5,",
@@ -74,7 +76,8 @@
       "005_component/tag": "enabled",
       "005_component/detailedList": "enabled",
       "005_component/footer": "enabled",
-      "004_semantic/semantic": "enabled"
+      "004_semantic/semantic": "enabled",
+      "005_component/icon": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -89,7 +92,8 @@
       "005_component/tag": "enabled",
       "005_component/detailedList": "enabled",
       "005_component/footer": "enabled",
-      "004_semantic/semantic": "enabled"
+      "004_semantic/semantic": "enabled",
+      "005_component/icon": "disabled"
     },
     "$figmaStyleReferences": {
       "pyt.component.footer.icon.active": "S:e3b176b01743e9319e35143ae14c3bec4867f1b7,",

@@ -7,6 +7,7 @@
     "004_semantic/semantic",
     "005_component/tag",
     "005_component/detailedList",
-    "005_component/footer"
+    "005_component/footer",
+    "005_component/icon"
   ]
 }

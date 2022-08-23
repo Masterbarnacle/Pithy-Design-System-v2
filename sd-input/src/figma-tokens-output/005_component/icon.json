@@ -1,0 +1,38 @@
+{
+  "pty": {
+    "component": {
+      "icon": {
+        "size": {
+          "small": {
+            "value": "{pty.semantic.size.small}",
+            "type": "sizing"
+          },
+          "medium": {
+            "value": "{pty.semantic.size.medium}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  },
+  "pyt": {
+    "component": {
+      "icon": {
+        "colour": {
+          "primary": {
+            "value": "{pty.semantic.color.icon.primary}",
+            "type": "color"
+          },
+          "accent": {
+            "value": "{pty.semantic.color.icon.accent}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{pty.semantic.color.icon.disabled}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
