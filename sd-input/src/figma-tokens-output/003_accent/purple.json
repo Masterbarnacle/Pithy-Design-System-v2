@@ -1,0 +1,22 @@
+{
+  "pty": {
+    "theme": {
+      "color": {
+        "activeAccent": {
+          "primary": {
+            "value": "{pty.theme.color.purple.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{pty.theme.color.purple.secondary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{pty.theme.color.purple.tertiary}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

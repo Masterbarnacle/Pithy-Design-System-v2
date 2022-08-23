@@ -60,7 +60,7 @@
       "color": {
         "surface": {
           "accent": {
-            "value": "{pty.theme.color.activeAccent.background}",
+            "value": "{pty.theme.color.activeAccent.primary}",
             "type": "color"
           },
           "background": {
@@ -79,46 +79,54 @@
           },
           "accent": {
             "type": "color",
-            "value": "{pty.semantic.color.accent.theme.background}"
+            "value": "{pty.theme.color.activeAccent.primary}"
           },
           "disabled": {
-            "value": "{pty.global.grey.800}",
+            "value": "{pty.theme.color.theme.50}",
             "type": "color"
           }
         },
         "text": {
           "default": {
             "primary": {
-              "value": "{pty.global.grey.100}",
+              "value": "{pty.theme.color.theme.0}",
+              "type": "color"
+            },
+            "accent": {
+              "value": "{pty.theme.color.activeAccent.primary}",
               "type": "color"
             },
             "secondary": {
-              "value": "{pty.global.grey.500}",
+              "value": "{pty.theme.color.theme.50}",
               "type": "color"
             },
             "disabled": {
-              "value": "{pty.global.grey.300}",
+              "value": "{pty.theme.color.theme.30}",
               "type": "color"
             }
           },
           "onAccent": {
             "primary": {
-              "value": "{pty.global.grey.1000}",
+              "value": "{pty.theme.color.theme.100}",
               "type": "color"
             },
             "secondary": {
-              "value": "{pty.global.grey.700}",
+              "value": "{pty.theme.color.theme.70}",
               "type": "color"
             },
             "disabled": {
-              "value": "{pty.global.grey.300}",
+              "value": "{pty.theme.color.theme.30}",
               "type": "color"
             }
           }
         },
         "border": {
+          "default": {
+            "value": "{pty.theme.color.theme.50}",
+            "type": "color"
+          },
           "accent": {
-            "value": "{pty.global.grey.800}",
+            "value": "{pty.theme.color.activeAccent.secondary}",
             "type": "color"
           }
         }

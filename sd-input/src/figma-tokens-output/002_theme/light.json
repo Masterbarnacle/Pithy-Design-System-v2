@@ -4,29 +4,29 @@
       "color": {
         "purple": {
           "primary": {
-            "value": "{pty.global.purple.400}",
+            "value": "{pty.global.purple.600}",
             "type": "color"
           },
           "secondary": {
-            "value": "{pty.global.purple.300}",
+            "value": "{pty.global.purple.700}",
             "type": "color"
           },
           "tertiary": {
-            "value": "{pty.global.purple.200}",
+            "value": "{pty.global.purple.800}",
             "type": "color"
           }
         },
         "orange": {
           "primary": {
-            "value": "{pty.global.orange.400}",
+            "value": "{pty.global.orange.600}",
             "type": "color"
           },
           "secondary": {
-            "value": "{pty.global.orange.300}",
+            "value": "{pty.global.orange.700}",
             "type": "color"
           },
           "tertiary": {
-            "value": "{pty.global.orange.200}",
+            "value": "{pty.global.orange.800}",
             "type": "color"
           }
         },
@@ -46,15 +46,15 @@
         },
         "theme": {
           "0": {
-            "value": "{pty.global.grey.100}",
+            "value": "{pty.global.grey.1000}",
             "type": "color"
           },
           "20": {
-            "value": "{pty.global.grey.200}",
+            "value": "{pty.global.grey.800}",
             "type": "color"
           },
           "30": {
-            "value": "{pty.global.grey.300}",
+            "value": "{pty.global.grey.700}",
             "type": "color"
           },
           "50": {
@@ -62,15 +62,15 @@
             "type": "color"
           },
           "70": {
-            "value": "{pty.global.grey.700}",
+            "value": "{pty.global.grey.300}",
             "type": "color"
           },
           "90": {
-            "value": "{pty.global.grey.900}",
+            "value": "{pty.global.grey.200}",
             "type": "color"
           },
           "100": {
-            "value": "{pty.global.grey.1000}",
+            "value": "{pty.global.orange.100}",
             "type": "color"
           }
         }

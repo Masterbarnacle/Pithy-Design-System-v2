@@ -2,10 +2,11 @@
   "tokenSetOrder": [
     "001_core/global",
     "002_theme/dark",
-    "003_semantic",
-    "component",
-    "004_component/tag",
-    "004_component/detailedList",
-    "004_component/footer"
+    "002_theme/light",
+    "003_accent/purple",
+    "004_semantic/semantic",
+    "005_component/tag",
+    "005_component/detailedList",
+    "005_component/footer"
   ]
 }
