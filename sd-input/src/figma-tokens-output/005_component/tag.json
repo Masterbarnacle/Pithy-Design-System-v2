@@ -5,11 +5,8 @@
         "tag": {
           "value": {
             "borderRadius": "{pty.semantic.radius.default}",
-            "paddingTop": "{pty.semantic.space.xsmall}",
-            "paddingRight": "{pty.semantic.space.xsmall}",
-            "paddingBottom": "{pty.semantic.space.xsmall}",
-            "paddingLeft": "{pty.semantic.space.xsmall}",
-            "fill": "{pty.semantic.color.accent.active.background}"
+            "fill": "{pty.semantic.color.surface.accent}",
+            "spacing": "{pty.semantic.space.xsmall}"
           },
           "type": "composition"
         }
