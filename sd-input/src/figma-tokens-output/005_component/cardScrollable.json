@@ -1,0 +1,43 @@
+{
+  "pty": {
+    "component": {
+      "cardScrollable": {
+        "comp": {
+          "value": {
+            "paddingTop": "{pty.semantic.space.small}",
+            "paddingBottom": "{pty.semantic.space.medium}",
+            "border": "{pty.semantic.color.border.default}",
+            "borderWidthTop": "0",
+            "borderWidthLeft": "0",
+            "borderWidthRight": "0",
+            "borderWidthBottom": "1",
+            "itemSpacing": "{pty.semantic.space.small}"
+          },
+          "type": "composition"
+        },
+        "type": {
+          "title": {
+            "value": "{pty.semantic.type.headline.medium}",
+            "type": "typography"
+          }
+        },
+        "slot": {
+          "horizontalSpacing": {
+            "value": "{pty.semantic.space.xsmall}",
+            "type": "spacing"
+          }
+        }
+      },
+      "detailedListItem": {
+        "color": {
+          "text": {
+            "title": {
+              "value": "{pty.semantic.color.text.default.accent}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  }
+}

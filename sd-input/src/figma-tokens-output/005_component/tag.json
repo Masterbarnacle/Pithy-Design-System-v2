@@ -1,17 +1,17 @@
 {
   "pty": {
     "component": {
-      "comp": {
-        "tag": {
-          "value": {
-            "borderRadius": "{pty.semantic.radius.default}",
-            "fill": "{pty.semantic.color.surface.accent}",
-            "spacing": "{pty.semantic.space.xsmall}"
-          },
-          "type": "composition"
-        }
-      },
       "tag": {
+        "comp": {
+          "small": {
+            "value": {
+              "borderRadius": "{pty.semantic.radius.default}",
+              "fill": "{pty.semantic.color.surface.accent}",
+              "spacing": "{pty.semantic.space.xsmall}"
+            },
+            "type": "composition"
+          }
+        },
         "type": {
           "value": "{pty.semantic.type.label.small}",
           "type": "typography"

@@ -8,6 +8,12 @@
     "005_component/tag",
     "005_component/detailedList",
     "005_component/footer",
-    "005_component/icon"
+    "005_component/icon",
+    "005_component/header",
+    "005_component/navigation",
+    "005_component/whatToPackSnippet",
+    "005_component/forecastSnippet",
+    "005_component/cardScrollable",
+    "wrapper"
   ]
 }

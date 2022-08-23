@@ -1,0 +1,17 @@
+{
+  "pty": {
+    "component": {
+      "wrapper": {
+        "comp": {
+          "value": {
+            "itemSpacing": "{pty.semantic.space.xlarge}",
+            "horizontalPadding": "{pty.semantic.space.medium}",
+            "paddingTop": "{pty.semantic.space.xlarge}",
+            "paddingBottom": "{pty.semantic.space.large}"
+          },
+          "type": "composition"
+        }
+      }
+    }
+  }
+}

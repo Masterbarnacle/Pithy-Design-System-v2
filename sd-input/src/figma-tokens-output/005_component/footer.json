@@ -1,8 +1,8 @@
 {
   "pty": {
     "component": {
-      "comp": {
-        "footer": {
+      "footer": {
+        "comp": {
           "value": {
             "paddingTop": "{pty.semantic.space.small}",
             "paddingBottom": "{pty.semantic.space.large}",
@@ -20,7 +20,7 @@
         "color": {
           "icon": {
             "active": {
-              "value": "{pty.semantic.color.icon.primary}",
+              "value": "{pty.semantic.color.icon.accent}",
               "type": "color"
             },
             "disabled": {

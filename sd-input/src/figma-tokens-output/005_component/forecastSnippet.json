@@ -1,0 +1,52 @@
+{
+  "pty": {
+    "component": {
+      "whatToPackSnippet": {
+        "type": {
+          "title": {
+            "value": "{pty.semantic.type.headline.small}",
+            "type": "typography"
+          },
+          "rain": {
+            "value": "{pty.semantic.type.headline.small}",
+            "type": "typography"
+          },
+          "temp": {
+            "value": "{pty.semantic.type.title.small}",
+            "type": "typography"
+          }
+        }
+      },
+      "forecastSnippet": {
+        "size": {
+          "height": {
+            "value": "{pty.semantic.size.xlarge}",
+            "type": "sizing"
+          },
+          "icon": {
+            "value": "{pty.component.icon.size.small}",
+            "type": "sizing"
+          }
+        },
+        "color": {
+          "title": {
+            "value": "{pty.semantic.color.text.default.primary}",
+            "type": "color"
+          },
+          "temp": {
+            "value": "{pty.semantic.color.text.default.primary}",
+            "type": "color"
+          },
+          "rain": {
+            "value": "{pty.semantic.color.text.default.accent}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{pty.semantic.color.icon.primary}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

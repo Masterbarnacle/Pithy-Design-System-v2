@@ -1,0 +1,42 @@
+{
+  "pty": {
+    "component": {
+      "whatToPackSnippet": {
+        "type": {
+          "title": {
+            "value": "{pty.semantic.type.headline.small}",
+            "type": "typography"
+          },
+          "reason": {
+            "value": "{pty.semantic.type.title.small}",
+            "type": "typography"
+          }
+        },
+        "size": {
+          "width": {
+            "value": "{pty.semantic.size.large}",
+            "type": "sizing"
+          },
+          "icon": {
+            "value": "{pty.component.icon.size.medium}",
+            "type": "sizing"
+          }
+        },
+        "color": {
+          "title": {
+            "value": "{pty.semantic.color.text.default.primary}",
+            "type": "color"
+          },
+          "reason": {
+            "value": "{pty.semantic.color.text.default.primary}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{pty.semantic.color.icon.primary}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

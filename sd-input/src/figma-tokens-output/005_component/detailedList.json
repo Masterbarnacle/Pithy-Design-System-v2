@@ -1,8 +1,8 @@
 {
   "pty": {
     "component": {
-      "comp": {
-        "detailedListItem": {
+      "detailedListItem": {
+        "comp": {
           "value": {
             "paddingTop": "{pty.semantic.space.small}",
             "paddingBottom": "{pty.semantic.space.medium}",
@@ -14,9 +14,7 @@
             "itemSpacing": "{pty.semantic.space.small}"
           },
           "type": "composition"
-        }
-      },
-      "detailedListItem": {
+        },
         "color": {
           "text": {
             "title": {

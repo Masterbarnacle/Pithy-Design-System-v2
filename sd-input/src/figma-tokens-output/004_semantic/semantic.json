@@ -59,12 +59,12 @@
       },
       "color": {
         "surface": {
-          "accent": {
-            "value": "{pty.theme.color.activeAccent.primary}",
-            "type": "color"
-          },
           "background": {
             "value": "{pty.theme.color.theme.100}",
+            "type": "color"
+          },
+          "accent": {
+            "value": "{pty.theme.color.activeAccent.primary}",
             "type": "color"
           },
           "foreground": {
@@ -122,7 +122,7 @@
         },
         "border": {
           "default": {
-            "value": "{pty.theme.color.theme.50}",
+            "value": "{pty.theme.color.theme.90}",
             "type": "color"
           },
           "accent": {
