@@ -1,0 +1,14 @@
+{
+  "pty": {
+    "component": {
+      "scrollingContainer": {
+        "space": {
+          "horizontalSpacing": {
+            "value": "{pty.semantic.space.xsmall}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}

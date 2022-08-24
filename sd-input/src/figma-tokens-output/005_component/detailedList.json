@@ -7,9 +7,6 @@
             "paddingTop": "{pty.semantic.space.small}",
             "paddingBottom": "{pty.semantic.space.medium}",
             "border": "{pty.semantic.color.border.default}",
-            "borderWidthTop": "0",
-            "borderWidthLeft": "0",
-            "borderWidthRight": "0",
             "borderWidthBottom": "1",
             "itemSpacing": "{pty.semantic.space.small}"
           },
@@ -29,6 +26,10 @@
               "value": "{pty.semantic.color.text.default.primary}",
               "type": "color"
             }
+          },
+          "border": {
+            "value": "{pty.semantic.color.border.default}",
+            "type": "color"
           }
         },
         "type": {

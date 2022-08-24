@@ -6,6 +6,7 @@
     "003_accent/orange",
     "003_accent/purple",
     "004_semantic/semantic",
+    "005_component/wrapper",
     "005_component/tag",
     "005_component/detailedList",
     "005_component/footer",
@@ -14,7 +15,6 @@
     "005_component/navigation",
     "005_component/whatToPackSnippet",
     "005_component/forecastSnippet",
-    "005_component/cardScrollable",
-    "wrapper"
+    "005_component/scrollingContainer"
   ]
 }
