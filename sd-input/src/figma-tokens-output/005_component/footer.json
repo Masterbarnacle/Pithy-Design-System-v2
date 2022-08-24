@@ -14,7 +14,7 @@
         "color": {
           "icon": {
             "active": {
-              "value": "{pty.semantic.color.icon.accent}",
+              "value": "{pty.semantic.color.icon.primary}",
               "type": "color"
             },
             "disabled": {

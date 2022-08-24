@@ -3,6 +3,7 @@
     "001_core/global",
     "002_theme/dark",
     "002_theme/light",
+    "003_accent/orange",
     "003_accent/purple",
     "004_semantic/semantic",
     "005_component/tag",
