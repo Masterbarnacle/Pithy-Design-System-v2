@@ -13,12 +13,12 @@
         },
         "color": {
           "icon": {
-            "active": {
-              "value": "{pty.semantic.color.icon.primary}",
-              "type": "color"
-            },
             "disabled": {
               "value": "{pty.semantic.color.icon.disabled}",
+              "type": "color"
+            },
+            "primary": {
+              "value": "{pty.semantic.color.icon.primary}",
               "type": "color"
             }
           },

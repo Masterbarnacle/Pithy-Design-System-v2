@@ -28,9 +28,7 @@
             "value": "{pty.semantic.size.small}",
             "type": "sizing"
           }
-        }
-      },
-      "footer": {
+        },
         "color": {
           "text": {
             "title": {
