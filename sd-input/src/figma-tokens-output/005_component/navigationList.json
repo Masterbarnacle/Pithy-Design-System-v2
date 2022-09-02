@@ -4,7 +4,7 @@
       "navigationList": {
         "comp": {
           "value": {
-            "verticalPadding": "{pty.semantic.space.small}",
+            "verticalPadding": "{pty.semantic.space.medium}",
             "horizontalPadding": "{pty.semantic.space.small}",
             "spacing": "{pty.semantic.space.medium}",
             "borderWidthBottom": "{pty.global.width.100}"
