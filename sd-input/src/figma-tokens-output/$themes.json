@@ -18,7 +18,8 @@
       "005_component/forecastSnippet": "enabled",
       "003_accent/orange": "disabled",
       "005_component/wrapper": "enabled",
-      "005_component/scrollingContainer": "enabled"
+      "005_component/scrollingContainer": "enabled",
+      "005_component/navigationList": "disabled"
     },
     "$figmaStyleReferences": {
       "pyt.component.footer.color.icon.active": "S:45c3a4ee8c15574b9ac7053b6637deadf5778b38,",
@@ -123,7 +124,8 @@
       "005_component/forecastSnippet": "enabled",
       "003_accent/orange": "disabled",
       "005_component/wrapper": "enabled",
-      "005_component/scrollingContainer": "enabled"
+      "005_component/scrollingContainer": "enabled",
+      "005_component/navigationList": "disabled"
     },
     "$figmaStyleReferences": {
       "pty.component.detailedListItem.color.text.title": "S:20d59b68e2d375fa80962c062886d4a0281047d1,",
@@ -141,7 +143,7 @@
       "pty.component.icon.colour.primary": "S:27c690268991072e7769ebc6ebbda222ab6e3dcb,",
       "pty.component.icon.colour.accent": "S:fe23b5509f398681b129024de82f17e8654da42b,",
       "pty.component.icon.colour.disabled": "S:b3e5faf969a22886d976f029d29ffa1afa9c0cdb,",
-      "pty.component.footer.color.icon.active": "S:7da1060b57fc92af275411aa6ac416062b679ee8,",
+      "pty.component.footer.color.icon.active": "S:0b0d17415b0c3751210c179959cea515d1b33a43,",
       "pty.component.footer.color.icon.disabled": "S:fbfe601381fb6de06e6572ea6a2dcb2e98a4d870,",
       "pty.component.footer.color.background": "S:853b23a44e695128017b8e278d1c7cc7b54dedf0,",
       "pty.component.detailedListItem.color.text.item": "S:4c3dec632f434d7927fe37e7b6dcde6bc1b5a2b5,",
@@ -201,7 +203,9 @@
       "pty.theme.color.theme.100": "S:973329857bb937d3842ca602660a83c62855181b,",
       "pyt.component.navigation.color.text.title": "S:7eca8797a1a21ab3c27766f402d9abe8d30ea4a5,",
       "pyt.component.navigation.color.icon.active": "S:4438a98ed68902e123d250e5f424b7e5b2a2ba18,",
-      "pty.component.footer.color.icon.primary": "S:4cadba8035ffda405375e9a48549a52aa6a2aa37,"
+      "pty.component.footer.color.icon.primary": "S:4cadba8035ffda405375e9a48549a52aa6a2aa37,",
+      "pty.component.navigation.color.background": "S:00b0609997358a48e8563ad80fcd7c3b69460052,",
+      "pty.component.footer.color.heading": "S:6a72e7270a2cb6bec0505af11060d8f89044732d,"
     }
   },
   {
@@ -223,7 +227,8 @@
       "005_component/whatToPackSnippet": "enabled",
       "005_component/forecastSnippet": "enabled",
       "005_component/wrapper": "enabled",
-      "005_component/scrollingContainer": "enabled"
+      "005_component/scrollingContainer": "enabled",
+      "005_component/navigationList": "disabled"
     },
     "$figmaStyleReferences": {
       "pty.component.detailedListItem.color.text.title": "S:dd9174fba4ec077db88b681f1bb35284fcf05656,",
@@ -323,7 +328,8 @@
       "005_component/forecastSnippet": "enabled",
       "003_accent/orange": "source",
       "005_component/wrapper": "enabled",
-      "005_component/scrollingContainer": "enabled"
+      "005_component/scrollingContainer": "enabled",
+      "005_component/navigationList": "disabled"
     },
     "$figmaStyleReferences": {
       "pty.component.forecastSnippet.color.title": "S:407920e590ccec1a97c719bb1eedb88dde393b91,",
@@ -422,7 +428,8 @@
       "005_component/forecastSnippet": "enabled",
       "003_accent/orange": "disabled",
       "005_component/wrapper": "enabled",
-      "005_component/scrollingContainer": "enabled"
+      "005_component/scrollingContainer": "enabled",
+      "005_component/navigationList": "disabled"
     },
     "$figmaStyleReferences": {
       "pyt.component.footer.icon.active": "S:e3b176b01743e9319e35143ae14c3bec4867f1b7,",
@@ -529,7 +536,8 @@
       "005_component/forecastSnippet": "enabled",
       "003_accent/orange": "disabled",
       "005_component/wrapper": "enabled",
-      "005_component/scrollingContainer": "enabled"
+      "005_component/scrollingContainer": "enabled",
+      "005_component/navigationList": "disabled"
     },
     "$figmaStyleReferences": {
       "pty.component.forecastSnippet.color.title": "S:1b7f47c1578269ab9d1f1309e1c6b57403bd85af,",

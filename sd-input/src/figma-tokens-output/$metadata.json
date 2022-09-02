@@ -15,6 +15,7 @@
     "005_component/navigation",
     "005_component/whatToPackSnippet",
     "005_component/forecastSnippet",
-    "005_component/scrollingContainer"
+    "005_component/scrollingContainer",
+    "005_component/navigationList"
   ]
 }

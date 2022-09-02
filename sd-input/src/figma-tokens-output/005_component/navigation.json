@@ -16,6 +16,12 @@
             "value": "{pty.semantic.type.body.medium}",
             "type": "typography"
           }
+        },
+        "color": {
+          "background": {
+            "value": "{pty.semantic.color.surface.background}",
+            "type": "color"
+          }
         }
       }
     }

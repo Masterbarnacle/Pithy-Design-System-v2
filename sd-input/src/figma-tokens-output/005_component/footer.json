@@ -17,13 +17,17 @@
               "value": "{pty.semantic.color.icon.disabled}",
               "type": "color"
             },
-            "primary": {
+            "active": {
               "value": "{pty.semantic.color.icon.primary}",
               "type": "color"
             }
           },
           "background": {
             "value": "{pty.semantic.color.surface.background}",
+            "type": "color"
+          },
+          "heading": {
+            "value": "{pty.semantic.color.text.default.primary}",
             "type": "color"
           }
         },
