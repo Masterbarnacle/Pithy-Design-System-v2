@@ -193,7 +193,7 @@
             "value": {
               "fontFamily": "{pty.semantic.family.primary}",
               "fontWeight": "{pty.global.weight.700}",
-              "lineHeight": "{pty.global.height.400}",
+              "lineHeight": "{pty.global.height.100}",
               "fontSize": "{pty.global.fontSize.150}"
             },
             "type": "typography"
