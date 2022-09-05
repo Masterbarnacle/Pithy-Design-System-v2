@@ -35,6 +35,12 @@
             "value": "{pty.semantic.color.icon.primary}",
             "type": "color"
           }
+        },
+        "space": {
+          "verticalPadding": {
+            "value": "{pty.semantic.space.xsmall}",
+            "type": "spacing"
+          }
         }
       }
     }
