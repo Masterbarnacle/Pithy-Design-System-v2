@@ -125,6 +125,14 @@
             "value": "{pty.theme.color.theme.90}",
             "type": "color"
           },
+          "medium": {
+            "value": "{pty.theme.color.theme.70}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{pty.theme.color.theme.0}",
+            "type": "color"
+          },
           "accent": {
             "value": "{pty.theme.color.activeAccent.secondary}",
             "type": "color"
