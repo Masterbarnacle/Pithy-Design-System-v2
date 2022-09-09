@@ -1,0 +1,132 @@
+{
+  "pty": {
+    "component": {
+      "input": {
+        "field": {
+          "active": {
+            "value": {
+              "verticalPadding": "{pty.semantic.space.small}",
+              "horizontalPadding": "{pty.semantic.space.small}",
+              "itemSpacing": "{pty.semantic.space.small}",
+              "borderRadius": "{pty.global.radius.100}",
+              "border": "{pty.semantic.color.border.medium}",
+              "borderWidth": "{pty.global.width.100}"
+            },
+            "type": "composition"
+          },
+          "focused": {
+            "value": {
+              "verticalPadding": "{pty.semantic.space.small}",
+              "horizontalPadding": "{pty.semantic.space.small}",
+              "itemSpacing": "{pty.semantic.space.small}",
+              "borderRadius": "{pty.global.radius.100}",
+              "border": "{pty.semantic.color.border.strong}",
+              "borderWidth": "{pty.global.width.100}"
+            },
+            "type": "composition"
+          },
+          "disabled": {
+            "value": {
+              "verticalPadding": "{pty.semantic.space.small}",
+              "horizontalPadding": "{pty.semantic.space.small}",
+              "itemSpacing": "{pty.semantic.space.small}",
+              "borderRadius": "{pty.global.radius.100}",
+              "border": "{pty.semantic.color.border.default}",
+              "borderWidth": "{pty.global.width.100}"
+            },
+            "type": "composition"
+          },
+          "error": {
+            "value": {
+              "verticalPadding": "{pty.semantic.space.small}",
+              "horizontalPadding": "{pty.semantic.space.small}",
+              "itemSpacing": "{pty.semantic.space.small}",
+              "borderRadius": "{pty.global.radius.100}",
+              "border": "{pty.semantic.color.border.error}",
+              "borderWidth": "{pty.global.width.100}"
+            },
+            "type": "composition"
+          }
+        },
+        "space": {
+          "verticalPadding": {
+            "value": "{pty.semantic.space.small}",
+            "type": "spacing"
+          },
+          "content": {
+            "verticalPadding": {
+              "value": "{pty.semantic.space.xsmall}",
+              "type": "spacing"
+            }
+          },
+          "error": {
+            "horizontallPadding": {
+              "value": "{pty.semantic.space.xsmall}",
+              "type": "spacing"
+            }
+          }
+        },
+        "color": {
+          "text": {
+            "title": {
+              "value": "{pty.semantic.color.text.default.primary}",
+              "type": "color"
+            },
+            "input": {
+              "value": "{pty.semantic.color.text.default.primary}",
+              "type": "color"
+            },
+            "placeholder": {
+              "value": "{pty.semantic.color.text.default.secondary}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{pty.semantic.color.text.default.secondary}",
+              "type": "color"
+            },
+            "help": {
+              "value": "{pty.semantic.color.text.default.secondary}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{pty.semantic.color.icon.error}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "{pty.semantic.color.icon.primary}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{pty.semantic.color.icon.disabled}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{pty.semantic.color.icon.error}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "title": {
+            "value": "{pty.semantic.type.title.medium}",
+            "type": "typography"
+          },
+          "help": {
+            "value": "{pty.semantic.type.body.medium}",
+            "type": "typography"
+          },
+          "content": {
+            "value": "{pty.semantic.type.body.medium}",
+            "type": "typography"
+          },
+          "error": {
+            "value": "{pty.semantic.type.body.medium}",
+            "type": "typography"
+          }
+        }
+      }
+    }
+  }
+}

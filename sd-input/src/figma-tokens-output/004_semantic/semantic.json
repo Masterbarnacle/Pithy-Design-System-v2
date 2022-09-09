@@ -84,6 +84,10 @@
           "disabled": {
             "value": "{pty.theme.color.theme.50}",
             "type": "color"
+          },
+          "error": {
+            "value": "{pty.theme.color.orange.primary}",
+            "type": "color"
           }
         },
         "text": {
@@ -102,6 +106,10 @@
             },
             "disabled": {
               "value": "{pty.theme.color.theme.30}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{pty.theme.color.orange.primary}",
               "type": "color"
             }
           },
@@ -133,8 +141,8 @@
             "value": "{pty.theme.color.theme.0}",
             "type": "color"
           },
-          "accent": {
-            "value": "{pty.theme.color.activeAccent.secondary}",
+          "error": {
+            "value": "{pty.theme.color.orange.primary}",
             "type": "color"
           }
         }
