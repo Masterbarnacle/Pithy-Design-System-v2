@@ -21,21 +21,7 @@
           "background": {
             "value": "{pty.semantic.color.surface.background}",
             "type": "color"
-          }
-        }
-      }
-    }
-  },
-  "pyt": {
-    "component": {
-      "navigation": {
-        "icon": {
-          "size": {
-            "value": "{pty.semantic.size.small}",
-            "type": "sizing"
-          }
-        },
-        "color": {
+          },
           "text": {
             "title": {
               "value": "{pty.semantic.color.text.default.primary}",
@@ -47,6 +33,12 @@
               "value": "{pty.semantic.color.icon.accent}",
               "type": "color"
             }
+          }
+        },
+        "icon": {
+          "size": {
+            "value": "{pty.semantic.size.small}",
+            "type": "sizing"
           }
         }
       }
