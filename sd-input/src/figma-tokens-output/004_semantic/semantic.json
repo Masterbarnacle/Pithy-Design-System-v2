@@ -100,11 +100,11 @@
               "value": "{pty.theme.color.activeAccent.primary}",
               "type": "color"
             },
-            "secondary": {
+            "disabled": {
               "value": "{pty.theme.color.theme.50}",
               "type": "color"
             },
-            "disabled": {
+            "secondary": {
               "value": "{pty.theme.color.theme.30}",
               "type": "color"
             },

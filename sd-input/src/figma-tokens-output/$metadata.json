@@ -5,18 +5,6 @@
     "002_theme/light",
     "003_accent/orange",
     "003_accent/purple",
-    "004_semantic/semantic",
-    "005_component/wrapper",
-    "005_component/tag",
-    "005_component/detailedList",
-    "005_component/footer",
-    "005_component/icon",
-    "005_component/header",
-    "005_component/navigation",
-    "005_component/whatToPackSnippet",
-    "005_component/forecastSnippet",
-    "005_component/scrollingContainer",
-    "005_component/navigationList",
-    "005_component/input"
+    "004_semantic/semantic"
   ]
 }
