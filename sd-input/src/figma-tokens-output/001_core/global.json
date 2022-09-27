@@ -261,7 +261,7 @@
           "description": "Color can be used for small text. Contrast is 9.15:1 against background #ffffff"
         },
         "900": {
-          "value": "#323232",
+          "value": "#242424",
           "type": "color",
           "description": "Color can be used for small text. Contrast is 12.82:1 against background #ffffff"
         },
