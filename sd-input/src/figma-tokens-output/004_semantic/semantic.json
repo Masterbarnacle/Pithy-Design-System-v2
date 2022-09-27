@@ -157,6 +157,10 @@
         "default": {
           "value": "{pty.global.radius.100}",
           "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{pty.global.radius.200}",
+          "type": "borderRadius"
         }
       },
       "type": {
